@@ -36,4 +36,7 @@
 - Design rules
 - Board Shape
 - Routing
-- Autoroute
+  - Vias
+  - layer
+  - mounting holes
+  
