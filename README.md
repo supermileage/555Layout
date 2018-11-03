@@ -27,11 +27,13 @@
 - Footprint layout 
   - Layers
 - Snap EDA
+- Create PCB
 - Linking Footprints to schematics
 - Layers (physical and electrical)
 - Snap Grid
 - Nets
 - Classes 
 - Design rules
+- Board Shape
 - Routing
 - Autoroute
