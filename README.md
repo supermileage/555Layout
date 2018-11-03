@@ -18,3 +18,20 @@
 - Drill (automatically generated)
 - Keep out (Pink) 
   - Board outline
+
+## Topics
+### Schematic
+- Nets
+- Annotation
+### Layout 
+- Footprint layout 
+  - Layers
+- Snap EDA
+- Linking Footprints to schematics
+- Layers (physical and electrical)
+- Snap Grid
+- Nets
+- Classes 
+- Design rules
+- Routing
+- Autoroute
