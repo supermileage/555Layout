@@ -1,8 +1,8 @@
 # 555Layout
 
 ## Layers
--Top (Red)
-  -Top Copper
+- Top (Red)
+  - Top Copper
 -Bottom (Blue)
   -Bottom Copper
 -Mechanical 1 (Pink)
